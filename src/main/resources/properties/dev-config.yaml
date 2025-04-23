@@ -1,0 +1,13 @@
+http:
+  port: "8081"
+  
+system:
+  url: "s-test-rjaencobos-mhv35i.5sc6y6-4.usa-e2.cloudhub.io"
+  path: "/accounts"
+  path2: "/contacts"
+  base: "/api"
+  
+sys:
+  auth:
+    client_id: "![y4X+aSu7PKdhqR92lbRMTJ/Oxe/gE5E/Ph4mDOI8mewszkYLz/KWAA==]"
+    client_secret: "![+DoH2ol+3wYzFWNtPSWCe1VZgHzXcLxLk+LOwPtnvdgw0CiZL2axPQ==]"
